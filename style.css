@@ -1,0 +1,20 @@
+p {
+    max-width: 100%;
+}
+
+.Transcript {
+    max-width: 80%;
+    font-size: large;
+    margin:auto
+}
+
+h1,h2,h3 {
+    width: fit-content;
+    margin: auto;
+}
+
+@media (width < 800) {
+    .Transcript {
+        max-width: 100%;
+    }
+}
