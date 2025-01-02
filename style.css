@@ -1,9 +1,10 @@
 p {
-    max-width: 100%;
+    max-width: 90%;
+    margin:auto
 }
 
 .Transcript {
-    max-width: 80%;
+    max-width: 60%;
     font-size: large;
     margin:auto
 }
@@ -11,6 +12,10 @@ p {
 h1,h2,h3 {
     width: fit-content;
     margin: auto;
+}
+
+li h2, li h3 {
+    margin: 0;
 }
 
 @media (width < 800) {
