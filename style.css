@@ -1,6 +1,7 @@
 p {
     max-width: 90%;
-    margin:auto
+    margin:auto;
+    margin-bottom: .5em;
 }
 
 .Transcript {
