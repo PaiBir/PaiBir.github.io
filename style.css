@@ -7,7 +7,11 @@ p {
 .Transcript {
     max-width: 60%;
     font-size: large;
-    margin:auto
+    margin:auto;
+}
+
+.Transcript p {
+    text-indent: 1.5em;
 }
 
 h1,h2,h3 {
